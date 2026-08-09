@@ -2,11 +2,6 @@
   <img src="./profile-photo.jpg" width="280" alt="Kanchana Profile Photo">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kanchana</h1>
-
-<h3 align="center">
-Computer Science Engineering Student | Full Stack Developer
-</h3>
 <h1 align="center">👋 Hi, I'm Kanchana</h1>
 
 <h3 align="center">
